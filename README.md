@@ -1,16 +1,22 @@
-# React + Vite
+🚀 DigiTools Marketplace
+DigiTools হলো একটি আধুনিক ডিজিটাল প্রোডাক্ট ডিরেক্টরি প্ল্যাটফর্ম, যেখানে ক্রিয়েটর এবং প্রফেশনালরা তাদের প্রয়োজনীয় প্রিমিয়াম ডিজিটাল অ্যাসেট এবং টুলস সহজেই খুঁজে পেতে পারেন। এটি ব্যবহারকারীদের কাজের গতি বাড়াতে এবং সৃজনশীল প্রজেক্টগুলোকে আরও উন্নত করতে সাহায্য করে।
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Technologies Used
+এই প্রজেক্টটি তৈরি করতে আমরা আধুনিক সব ওয়েব টেকনোলজি ব্যবহার করেছি:
 
-Currently, two official plugins are available:
+Frontend Library: React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Styling: Tailwind CSS
 
-## React Compiler
+UI Components: DaisyUI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Icons: React Icons & Custom SVGs
 
-## Expanding the ESLint configuration
+Notifications: React-Toastify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Key Features
+Interactive Product Showcase: সুন্দর এবং রেসপনসিভ কার্ড ডিজাইনের মাধ্যমে বিভিন্ন ক্যাটাগরির ডিজিটাল প্রোডাক্ট প্রদর্শন করা হয়, যা ইউজারদের জন্য ব্রাউজিং সহজ করে তোলে।
+
+Seamless Cart Management: ইউজাররা খুব সহজেই তাদের পছন্দের টুলসগুলো কার্টে অ্যাড করতে পারেন এবং রিয়েল-টাইম নোটিফিকেশনের মাধ্যমে আপডেট জানতে পারেন।
+
+Professional Branding & UI: প্রজেক্টটিতে রয়েছে একটি মডার্ন ব্যানার সেকশন, কাস্টমাইজড ফুটার এবং সোশ্যাল মিডিয়া ইন্টিগ্রেশন, যা পুরো প্ল্যাটফর্মকে একটি প্রফেশনাল লুক দেয়।
