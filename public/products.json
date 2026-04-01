@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "SEO Analyzer Pro",
+    "description": "Improve your search engine ranking with real-time site auditing.",
+    "price": 49,
+    "period": "Monthly",
+    "tagType": "Best Seller",
+    "features": ["Keyword Tracking", "Audit Reports", "24/7 Support"],
+    "icon": "/operation.png"
+  },
+  {
+    "id": 2,
+    "name": "Creative UI Kit",
+    "description": "Accelerate your design workflow with 1000+ premium components.",
+    "price": 120,
+    "period": "One-time",
+    "tagType": "New",
+    "features": ["Figma Assets", "Full Documentation", "Free Updates"],
+    "icon": "https://img.icons8.com/fluency/96/design.png"
+  },
+  {
+    "id": 3,
+    "name": "Cloud Storage Plus",
+    "description": "Secure and fast cloud storage for your growing business needs.",
+    "price": 15,
+    "period": "Monthly",
+    "tagType": "Popular",
+    "features": ["1TB Storage", "End-to-end Encryption", "File Sharing"],
+    "icon": "https://img.icons8.com/fluency/96/cloud.png"
+  },
+  {
+    "id": 4,
+    "name": "Social Media Manager",
+    "description": "Schedule and analyze your social posts from one single dashboard.",
+    "price": 30,
+    "period": "Monthly",
+    "tagType": "New",
+    "features": ["Auto Scheduling", "Detailed Analytics", "Multi-platform"],
+    "icon": "/portfolio.png"
+  },
+  {
+    "id": 5,
+    "name": "Email Marketing Suite",
+    "description": "Build campaigns that convert with our advanced email automation.",
+    "price": 25,
+    "period": "Monthly",
+    "tagType": "Best Seller",
+    "features": ["A/B Testing", "Drag & Drop Builder", "List Segments"],
+    "icon": "https://img.icons8.com/fluency/96/email.png"
+  },
+  {
+    "id": 6,
+    "name": "DevOps Toolkit",
+    "description": "Automate your deployment process with our professional CI/CD tools.",
+    "price": 200,
+    "period": "Yearly",
+    "tagType": "Expert",
+    "features": ["Docker Support", "Automated Testing", "Server Monitoring"],
+    "icon": "https://img.icons8.com/fluency/96/developer-mode.png"
+  }
+]
